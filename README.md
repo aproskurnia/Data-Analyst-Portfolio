@@ -10,7 +10,7 @@ During my last studies, I honed my ability to work with complex data and develop
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf](https://github.com/ link).
+My CV in [pdf](CV.pdf).
 
 I am excited to bring my diverse work experience and analytical skills to the field of data analysis as an entry-level data analyst.
 
