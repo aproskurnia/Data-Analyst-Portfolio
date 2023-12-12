@@ -2,7 +2,9 @@
 
 ## **About**
 
-Hi, I'm Alina! I'm a passionate Analyst with over 11 years of experience in IT (game development and social network content products, mainly product management and creative roles), and today I'm seeking an opportunity to be part of the analytics team to aid improve user experience and achieve business goals of the company.
+Hi, I'm Alina and welcome to my Data Analyst Portfolio!
+
+I am a passionate Analyst with over 11 years of experience in IT (game development and social network content products, mainly product management and creative roles), and today I'm seeking an opportunity to be part of the analytics team to aid improve user experience and achieve business goals of the company.
 
 I have extensive expertise in finding growth points in products, working in the team, collaborating with cross-functional departments and leading cross-functional teams to create impact through data and design. Thanks to my diverse experience in different roles, I can look at products from different angles and combine all my knowledge and observations to conduct quality data analysis and draw parallels between various events, conditions and factors influencing metrics, as well as provide relevant recommendations for improving metrics based on analysis. I also consider attention to detail and a focus on product success to be my strengths.
 
@@ -12,6 +14,8 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 My CV in [pdf](CV.pdf).
 
+This repository is to showcase my skills, share projects and track my progress in Data Analytics / Product Analytics related topics.
+
 I am excited to bring my diverse work experience and analytical skills to the field of data analysis as an entry-level data analyst.
 
- This is a repository to showcase skills, share projects and track my progress in Data Analytics / Product Analytics related topics.
+Thank you for your time, I look forward to hearing from you soon.
