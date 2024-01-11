@@ -19,3 +19,5 @@ This repository is to showcase my skills, share projects and track my progress i
 I am excited to bring my diverse work experience and analytical skills to the field of data analysis as an entry-level data analyst.
 
 Thank you for your time, I look forward to hearing from you soon.
+
+Contact me via [email - aproskurnya1991@gmail.com](aproskurnya1991@gmail.com) or [Linkedin](https://www.linkedin.com/in/alinaproskurnia/)
