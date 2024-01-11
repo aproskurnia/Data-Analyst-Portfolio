@@ -20,4 +20,3 @@ I am excited to bring my diverse work experience and analytical skills to the fi
 
 Thank you for your time, I look forward to hearing from you soon.
 
-Contact me via [email - aproskurnya1991@gmail.com](aproskurnya1991@gmail.com) or [Linkedin](https://www.linkedin.com/in/alinaproskurnia/)
