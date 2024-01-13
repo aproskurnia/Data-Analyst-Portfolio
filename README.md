@@ -1,7 +1,7 @@
 # **Data-Analyst-Portfolio**
 
 ## **Table of Contents**
-1. #About Me
+- [About Me](#About-me)
 
 ## **About Me**
 
