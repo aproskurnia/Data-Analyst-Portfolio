@@ -1,6 +1,9 @@
 # **Data-Analyst-Portfolio**
 
-## **About**
+## **Table of Contents**
+1. #About Me
+
+## **About Me**
 
 Hi, I'm Alina and welcome to my Data Analyst Portfolio!
 
