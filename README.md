@@ -34,7 +34,7 @@ Instruments - Excel, Tableau
 ### **Proj#2** -
 
 ## **How To Reach Me**
-- LinkedIn - [linkedin.com/in/alinaproskurnia/](linkedin.com/in/alinaproskurnia/)
+- LinkedIn - [linkedin.com/in/alinaproskurnia/](https://www.linkedin.com/in/alinaproskurnia/)
 - Email - aproskurnya1991@gmail.com
 - Telegram - @aproskurnia
 - Phone - +38(063)3547787
