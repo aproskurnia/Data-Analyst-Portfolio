@@ -1,7 +1,10 @@
 # **Data-Analyst-Portfolio**
 
 ## **Table of Contents**
-- [About Me](#About-me)
+
+- [About Me](#about-me)
+- [Projects](#projects)
+- [How To Reach Me](#how-to-reach-me)
 
 ## **About Me**
 
@@ -19,7 +22,19 @@ My CV in [pdf](CV.pdf).
 
 This repository is to showcase my skills, share projects and track my progress in Data Analytics / Product Analytics related topics.
 
-I am excited to bring my diverse work experience and analytical skills to the field of data analysis as an entry-level data analyst.
+Feel free to have a look at the work I've done, and I'm more than happy to chat further!
 
-Thank you for your time, I look forward to hearing from you soon.
+## **Projects**
 
+### **Proj#1** - [Unit Economics in SaaS product](https://github.com/aproskurnia/Data-Analyst-Portfolio/tree/dbfe6675ded0b2823e2ac2365e8d2b03e00f0012/Proj%231%20-%20Unit%20Economics%20%2B%20Product%20metrics%20in%20SaaS)
+As a Data Analyst, I extract and analyze data to evaluate key metrics such as MRR, ARPPU, lifetime value (LTV), and churn rate. The project utilizes segmentation techniques and cohort analysis to analyze pricing plans and subscription tiers. Dashboard is created to effectively monitor metrics, communicate findings and support data-driven decision-making. The project aims to improve business strategies, enhance product performance, and drive growth in the SaaS industry.
+
+Instruments - Excel, Tableau
+
+### **Proj#2** -
+
+## **How To Reach Me**
+- LinkedIn - [linkedin.com/in/alinaproskurnia/](linkedin.com/in/alinaproskurnia/)
+- Email - aproskurnya1991@gmail.com
+- Telegram - @aproskurnia
+- Phone - +38(063)3547787
