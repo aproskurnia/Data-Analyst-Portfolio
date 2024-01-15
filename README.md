@@ -27,9 +27,9 @@ Feel free to have a look at the work I've done, and I'm more than happy to chat 
 ## **Projects**
 
 ### **Proj#1** - [Unit Economics in SaaS product](https://github.com/aproskurnia/Data-Analyst-Portfolio/tree/dbfe6675ded0b2823e2ac2365e8d2b03e00f0012/Proj%231%20-%20Unit%20Economics%20%2B%20Product%20metrics%20in%20SaaS)
-As a Data Analyst, I extract and analyze data to evaluate key metrics such as MRR, ARPPU, lifetime value (LTV), and churn rate. The project utilizes segmentation techniques and cohort analysis to analyze pricing plans and subscription tiers. Dashboard is created to effectively monitor metrics, communicate findings and support data-driven decision-making. The project aims to improve business strategies, enhance product performance, and drive growth in the SaaS industry.
+For this project I extract and analyze data to evaluate key metrics such as MRR, ARPPU, lifetime value (LTV), and churn rate. The project utilizes segmentation techniques and cohort analysis to analyze pricing plans and subscription tiers. Dashboard is created to effectively monitor metrics, communicate findings and support data-driven decision-making. The project aims to improve business strategies, enhance product performance, and drive growth in the SaaS industry.
 
-Instruments - Excel, Tableau
+Tools - Excel, Public Tableau
 
 ### **Proj#2** -
 
