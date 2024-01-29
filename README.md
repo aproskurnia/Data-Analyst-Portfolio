@@ -26,12 +26,12 @@ Feel free to have a look at the work I've done, and I'm more than happy to chat 
 
 ## **Projects**
 
-### **Proj#1** - [Unit Economics in SaaS product](https://github.com/aproskurnia/Data-Analyst-Portfolio/tree/dbfe6675ded0b2823e2ac2365e8d2b03e00f0012/Proj%231%20-%20Unit%20Economics%20%2B%20Product%20metrics%20in%20SaaS)
+### **Proj#1** - [Unit Economics in SaaS product](https://github.com/aproskurnia/Data-Analyst-Portfolio/tree/6ff4d3225883eea6a39813830204d471c5715efd/Proj%231%20-%20Unit%20Economics%20%2B%20Product%20metrics%20in%20SaaS)
 For this project I extract and analyze data to evaluate key metrics such as MRR, ARPPU, lifetime value (LTV), and churn rate. The project utilizes segmentation techniques and cohort analysis to analyze pricing plans and subscription tiers. Dashboard is created to effectively monitor metrics, communicate findings and support data-driven decision-making. The project aims to improve business strategies, enhance product performance, and drive growth in the SaaS industry.
 
 Tools - Excel, Public Tableau
 
-### **Proj#2** - [Game Project: Game Funnel Analysis for User Level Completion](https://github.com/aproskurnia/Data-Analyst-Portfolio/tree/fd265f032367745ef0211233a8ccc8416901ac85/Proj%232%20-%20Game%20project%3A%20Funnel%20of%20levels%20completing)
+### **Proj#2** - [Game Project: Game Funnel Analysis for User Level Completion](https://github.com/aproskurnia/Data-Analyst-Portfolio/tree/6ff4d3225883eea6a39813830204d471c5715efd/Proj%232%20-%20Game%20project%3A%20Funnel%20of%20levels%20completing)
 In this project, I undertook a comprehensive analysis of the "funnel" that guides a new user through the levels upon installing the game. The primary objective was to enhance the First Time User Experience (FTUE), increase conversion rates, fine-tune game balance, optimize the difficulty curve, and refine the monetization strategy encompassing in-app purchases and ads. This endeavor represents a critical step toward creating a more engaging and lucrative gaming environment.
 
 Tools - Python (Pandas, Matplotlib, Seaborn)
