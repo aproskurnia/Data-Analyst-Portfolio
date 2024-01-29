@@ -16,9 +16,10 @@ In this project, I undertook a comprehensive analysis of the "funnel" that guide
 - **Monetization Strategy Refinement**: Delved into in-app purchase and ad performance to strike the right balance between profitability and user satisfaction.
 
 #### 2. Tools and Data Sources:
-Tools: Python (Pandas, NumPy, Matplotlib, Seaborn)
+Tools: Python (Pandas, Numpy, Matplotlib, Seaborn)
 
-Data Sources: The primary dataset for this analysis is the `plr_smpl_attempts.csv` file, which contains detailed information about all ... .
+Data Sources: The primary dataset for this analysis is the `plr_smpl_attempts.csv` file, which contains detailed information about the passage of levels by each player.
+You can find the data source by this link: [plr_smpl_attempts.csv.zip](https://drive.google.com/file/d/1eU3QhGmRFP2vmtMNhvkKDGexoizaDtsn/view?usp=sharing)
 
 #### 3. Data Manipulation in Python:
 
