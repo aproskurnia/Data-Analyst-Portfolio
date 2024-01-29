@@ -29,7 +29,7 @@ Following the data manipulation in Excel, I seamlessly transferred the `SaaS pro
 
 You can find my dashboard on Public Tableau via this link: [SaaS Revenue Dashboard](https://public.tableau.com/views/SaaSRevenueDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![Dashboard Tableau](Dashboard.png)
+
 
 #### 5. Contact Information:
 I welcome any inquiries or collaborations related to this project or other data analytics endeavors. Feel free to explore my LinkedIn profile for more details or contact me directly via email, Telegram, or phone:
