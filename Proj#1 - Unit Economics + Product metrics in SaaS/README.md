@@ -32,7 +32,7 @@ You can find my excel file via this link: [Saas project](https://docs.google.com
 #### 4. Dashboard Creation in Public Tableau:
 Following the data manipulation in Excel, I seamlessly transferred the `SaaS project.csv` file to Public Tableau, where I constructed a comprehensive dashboard. This dashboard features key metrics like MRR, ARPPU, LTV, and churn rate, accompanied by insightful graphics derived from cohort analysis. The visualization provides a user-friendly interface for stakeholders to make informed, data-driven decisions.
 
-You can find my dashboard on Public Tableau via this link: [SaaS Revenue Dashboard](https://public.tableau.com/views/SaaSRevenueDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+You can find my dashboard on Public Tableau via this link: [SaaS Revenue Dashboard](https://public.tableau.com/views/SaaSRevenueDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) and more dashboard made by me on my [tableau profile](https://public.tableau.com/app/profile/alina.proskurnia/vizzes)
 
 ![Dashboard Tableau](Dashboard.png)
 
