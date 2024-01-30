@@ -20,9 +20,12 @@ In the initial phase, I worked with the raw data in Excel, introducing columns s
   ![churn_google_sheets](churn.png)
 - back from churn
   ![back_from_churn_google_sheets](back_from_churn.png)
-- subplan level 
-- downgrade subplan 
+- subplan level
+  ![sub_plan_level_google_sheets](sub_plan_level.png)
+- downgrade subplan
+  ![downgrade_subplan_google_sheets](downgrade_subplan.png)
 - upgrade subplan
+  ![upgrade_subplan_google_sheets](upgrade_subplan.png)
 
 You can find my excel file via this link: [Saas project](https://docs.google.com/spreadsheets/d/1jKPZ6eCd7lKUuNDw_hbNiY35V4Rxu99cMMHf4OKPu3M/edit?usp=sharing)
 
