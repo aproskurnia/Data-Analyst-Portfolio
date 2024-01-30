@@ -16,11 +16,12 @@ Data Sources: The primary dataset for this analysis is the `SaaS project.csv` fi
 
 #### 3. Data Manipulation in Excel:
 In the initial phase, I worked with the raw data in Excel, introducing columns such as churn, back_from_churn, sub_plan level, downgrade sub_plan, and upgrade sub_plan. These additional columns play a crucial role in analyzing and understanding subscription dynamics.
-- churn	
-- back_from_churn	
-- sub_plan level 
-- downgrade sub_plan 
-- upgrade sub_plan
+- churn
+  ![churn_google_sheets](churn.png)
+- back from churn	
+- subplan level 
+- downgrade subplan 
+- upgrade subplan
 
 You can find my excel file via this link: [Saas project](https://docs.google.com/spreadsheets/d/1jKPZ6eCd7lKUuNDw_hbNiY35V4Rxu99cMMHf4OKPu3M/edit?usp=sharing)
 
