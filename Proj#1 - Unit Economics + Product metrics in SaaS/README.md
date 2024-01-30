@@ -18,7 +18,8 @@ Data Sources: The primary dataset for this analysis is the `SaaS project.csv` fi
 In the initial phase, I worked with the raw data in Excel, introducing columns such as churn, back_from_churn, sub_plan level, downgrade sub_plan, and upgrade sub_plan. These additional columns play a crucial role in analyzing and understanding subscription dynamics.
 - churn
   ![churn_google_sheets](churn.png)
-- back from churn	
+- back from churn
+  ![back_from_churn_google_sheets](back_from_churn.png)
 - subplan level 
 - downgrade subplan 
 - upgrade subplan
