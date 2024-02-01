@@ -14,6 +14,16 @@ Tools: Excel, Public Tableau
 
 Data Sources: The primary dataset for this analysis is the `SaaS project.csv` file, which contains detailed information about all subscriptions from 2021 to 2023. This dataset was generated using an AI and real-world subscription data was used as a reference, therefore the results may not look entirely realistic.
 
+**Content:**
+We have data from 995 users who paid for a subscription at least once during 2021-2023.
+
+user_id - A unique number that identifies each player.
+subscription_payment_date - Date the player paid for the subscription
+monthly_subscription_fee - Amount of the Subscription fee
+subscription_plan - Subscription plan name
+language - User's device language in settings
+age - User's age specified during registration
+
 #### 3. Data Manipulation in Excel:
 In the initial phase, I worked with the raw data in Excel, introducing columns such as churn, back_from_churn, sub_plan level, downgrade sub_plan, and upgrade sub_plan. These additional columns play a crucial role in analyzing and understanding subscription dynamics.
 - churn
