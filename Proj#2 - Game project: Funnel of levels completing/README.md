@@ -43,6 +43,8 @@ You can find the data source by this link: [plr_smpl_attempts.csv.zip](https://d
    - Constructed a chart displaying the sequential conversion rate by levels, providing insights into level-by-level conversion trends.
    - Investigated the spread in the number of unsuccessful attempts to complete each level, visualized by a chart depicting the total number of failed attempts by levels. Identified the levels with the highest concentrations of failed attempts.
    - Examined the average count of fails per user by levels, creating a list of the top 15 levels with the highest values.
+   - Copmuted and visualized the level difficulty curve using Bernoulli process.
+   - Computed standard error and added error bars to the visualization.
    - Checked the correlation between the number of failed attempts to complete a level and the percentage drop in conversion to assess any relationship between these two metrics, potentially signaling areas of concern for the product team.
 4. Summary
    Concluded the analysis with a comprehensive summary, highlighting key findings, trends, and potential areas for improvement. This phase serves as a culmination of insights gained from the data analysis process.
