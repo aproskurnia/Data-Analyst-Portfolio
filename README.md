@@ -31,7 +31,7 @@ For this project I extract and analyze data to evaluate key metrics such as MRR,
 
 Tools - Excel, Public Tableau
 
-### **Proj#2** - [Game project: Funnel of levels completing](https://github.com/aproskurnia/Data-Analyst-Portfolio/tree/23f90522e55b421e59f1e5854f6998fcef33b021/Proj%232%20-%20Game%20project%3A%20Funnel%20of%20levels%20completing)
+### **Proj#2** - [Game project: Funnel of levels completing](https://github.com/aproskurnia/Data-Analyst-Portfolio/blob/806e42ec1960191a305ba7ca39d9a602addfd4fd/Proj%232%20-%20Game%20project%3A%20Funnel%20of%20levels%20completing/README.md)
 In this project, I undertook a comprehensive analysis of the "funnel" that guides a new user through the levels upon installing the game. The primary objective was to enhance the First Time User Experience (FTUE), increase conversion rates, fine-tune game balance, and optimize the difficulty curve. This endeavor represents a critical step toward creating a more engaging and lucrative gaming environment.
 
 Tools - Python (Pandas, Numpy, Matplotlib, Seaborn)
