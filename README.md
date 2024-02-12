@@ -36,8 +36,8 @@ In this project, I undertook a comprehensive analysis of the "funnel" that guide
 
 Tools - Python (Pandas, Numpy, Matplotlib, Seaborn)
 
-### **Practise-SQL** - [All Projects](https://github.com/aproskurnia/Data-Analyst-Portfolio/tree/7be3c537a04cdacd5f4b8ab83399d86a11aa535c/Practise-SQL)
-**Case Study #1** - [Simple queries for Kickstarter-Project data]()
+### **Practise-SQL** - [All Projects](https://github.com/aproskurnia/Data-Analyst-Portfolio/tree/11e825c343b959083bcc2748229ad1383352a6f1/Practise-SQL)
+**Case Study #1** - [Simple queries for Kickstarter-Project data](https://github.com/aproskurnia/Data-Analyst-Portfolio/tree/11e825c343b959083bcc2748229ad1383352a6f1/Practise-SQL/Case%20Study%20%231%20-%20Kickstarter-Project)
 
 ## **How To Reach Me**
 - LinkedIn: [linkedin.com/in/alinaproskurnia/](https://www.linkedin.com/in/alinaproskurnia/)
