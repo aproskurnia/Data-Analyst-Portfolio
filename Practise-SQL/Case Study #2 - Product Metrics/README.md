@@ -13,4 +13,4 @@ This Dataset was shared by GoiIT team on course Data Analytics for practising SQ
 - payment_date: date of the payment
 - revenue_amount_usd - amount of the payment
 
-cvc file you can download [HERE]()
+cvc file you can download [HERE](https://github.com/aproskurnia/Data-Analyst-Portfolio/blob/53c0249c584e0fd05fae9b42f262b2820671eb21/Practise-SQL/Case%20Study%20%232%20-%20Product%20Metrics/game_payments_dataset.csv)
