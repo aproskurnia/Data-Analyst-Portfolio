@@ -9,7 +9,7 @@
 #### 1. Project Overview:
 In this project, I undertook a comprehensive analysis of the "funnel" that guides a new user through the levels upon installing the game. The primary objective was to enhance the First Time User Experience (FTUE), increase conversion rates, fine-tune game balance, and optimize the difficulty curve. This endeavor represents a critical step toward creating a more engaging and lucrative gaming environment.
 
-Project can be find [here](https://github.com/aproskurnia/Data-Analyst-Portfolio/blob/ed24b4c39e8a8606ca63eddc18fa5dac578554e8/Proj%232%20-%20Game%20project%3A%20Funnel%20of%20levels%20completing/Game_project.ipynb)
+Project can be find [here](https://github.com/aproskurnia/Data-Analyst-Portfolio/blob/81c58f618524569a4597c7178235468a827736db/Proj%232%20-%20Game%20project%3A%20Funnel%20of%20levels%20completing/Game_project.ipynb)
 
 ##### Objectives:
 - **FTUE (First Time User Experience):**
